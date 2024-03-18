@@ -1,1 +1,2 @@
 # Placement-prediction-using-python
+The aim of this project is to develop a predictive model that can assist educational institutions and students in understanding the factors that influence job placement after graduation. By analyzing historical data on student attributes, academic performance, and placement outcomes, the model predicts the likelihood of a student being placed in a job position upon completion of their studies.
